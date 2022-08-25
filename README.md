@@ -7,6 +7,8 @@ JavaScript bindings for the [Solidity compiler](https://github.com/ethereum/soli
 
 Uses the Emscripten compiled Solidity found in the [solc-bin repository](https://github.com/ethereum/solc-bin).
 
+Updating the readme.
+
 ## Node.js Usage
 
 To use the latest stable version of the Solidity compiler via Node.js you can install it via npm:
