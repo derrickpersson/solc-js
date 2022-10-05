@@ -14,6 +14,7 @@ function setupMethods (soljson) {
     version = soljson.cwrap('version', 'string', []);
   }
 
+  // Just leaving a comment here.
   const versionToSemver = function () {
     return translate.versionToSemver(version());
   };
