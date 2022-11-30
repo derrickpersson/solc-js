@@ -11,6 +11,7 @@ tape('CLI', function (t) {
     spt.stderr.empty();
     spt.end();
   });
+  /// LALALALALALALALALALA
 
   t.test('no parameters', function (st) {
     const spt = spawn(st, './solc.js');
