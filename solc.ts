@@ -8,6 +8,9 @@ import solc from './index';
 import smtchecker from './smtchecker';
 import smtsolver from './smtsolver';
 
+// Look at all these changes I'm making.
+// Woo Hoo!!!!
+
 // hold on to any exception handlers that existed prior to this script running, we'll be adding them back at the end
 const originalUncaughtExceptionListeners = process.listeners('uncaughtException');
 // FIXME: remove annoying exception catcher of Emscripten
