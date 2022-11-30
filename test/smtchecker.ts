@@ -9,6 +9,7 @@ const preamble = 'pragma solidity >=0.0;\n// SPDX-License-Identifier: GPL-3.0\n'
 tape('SMTChecker', function (t) {
   // We use null for `solverFunction` and `solver` when calling `handleSMTQueries`
   // because these tests do not call a solver.
+  // FALALALALLALALALALLA
 
   t.test('smoke test with no axuiliaryInputRequested', function (st) {
     const input = {};
