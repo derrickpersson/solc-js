@@ -2,5 +2,5 @@
 /common/types.ts @derrickpersson
 /index.ts @derrickpersson
 /solc.ts @derrickpersson
-/test/cli.ts 
+/test/cli.ts @derrickpersson
 /test/smtchecker.ts @derrickpersson
