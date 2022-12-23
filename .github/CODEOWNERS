@@ -2,6 +2,6 @@
 {"path":"/common/types.ts"} derrick.persson@usecodex.com
 /common/types.ts @derrickpersson
 /index.ts @derrickpersson
-/solc.ts @derrickpersson
+/solc.ts @derrickpersson derrick.persson@usecodex.com
 /test/cli.ts @derrickpersson
 /test/smtchecker.ts @derrickpersson
