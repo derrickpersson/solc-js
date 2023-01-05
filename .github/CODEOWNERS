@@ -2,6 +2,6 @@
 /common/types.ts @derrickpersson
 /index.ts @derrickpersson
 /solc.ts @derrickpersson
-/src/ @derrickpersson
-/test/cli.ts @derrickpersson
-/test/smtchecker.ts @derrickpersson
+/src/ @derrickpersson derrickpersson@gmail.com
+/test/cli.ts @derrickpersson derrickpersson@gmail.com
+/test/smtchecker.ts @derrickpersson derrickpersson@gmail.com
