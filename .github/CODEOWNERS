@@ -5,4 +5,5 @@
 /solc.ts @derrickpersson
 /src/ @derrickpersson
 /test/cli.ts @derrickpersson
+/test/resources/importA.sol @derrickpersson
 /test/smtchecker.ts @derrickpersson
