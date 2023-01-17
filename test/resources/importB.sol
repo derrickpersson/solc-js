@@ -3,3 +3,4 @@ contract D {
         return 0;
     }
 }
+// I should be the owner here too now!
