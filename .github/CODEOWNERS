@@ -6,4 +6,5 @@
 /src/ @derrickpersson
 /test/cli.ts @derrickpersson
 /test/resources/importA.sol @derrickpersson
+/test/resources/importB.sol @derrickpersson
 /test/smtchecker.ts @derrickpersson
