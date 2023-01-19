@@ -3,3 +3,5 @@ contract C {
         return 0;
     }
 }
+
+// Doing more things here.
